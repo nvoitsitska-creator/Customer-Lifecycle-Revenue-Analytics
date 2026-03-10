@@ -15,6 +15,8 @@ Dashboard Overview
 
 🔗 Interactive Dashboard: https://public.tableau.com/app/profile/anastasiia.voitsitska/viz/CustomerLifecycleRevenueAnalytics/Dashboard1
 
+![Dashboard](./screenshots/Dashboard.png)
+
 The dashboard consists of several analytical blocks that explain user growth, revenue movement, and long-term customer value.
 
 ## 1. User Metrics Flow

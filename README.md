@@ -61,7 +61,7 @@ This section compares Average Revenue Per Paying User (ARPPU) with overall reven
 ### Purpose:
 
 - Measure monetization efficiency
-- Understand whether revenue growth is driven by more users or higher spending per user
+- Understand whether the revenue growth is due to an increase in the number of users or an increase in revenue per user.
 
 ### Observation:
 ARPPU remains relatively stable after the initial growth phase, indicating consistent spending behavior among users.
